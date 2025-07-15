@@ -1,5 +1,1 @@
-Para rodar é necessário ter o g++ instalado
-g++ main.cpp nn.cpp -o programa
-./programa
 
-Houve problema com o treinamento em algum ponto, então não ficou 100%, corrigir e entregar novamente, depois de tirar dúvidas
